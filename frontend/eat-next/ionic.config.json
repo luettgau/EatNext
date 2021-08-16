@@ -1,0 +1,7 @@
+{
+  "name": "EatNext",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
